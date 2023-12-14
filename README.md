@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LAKSHMI NARAYANA GURRAM.
 - 👀 I’m interested in software development and web devlopment.
-- 🌱 I’m currently learning Linux,Javascript.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @lakshminarayanagurram810@gmail.com
 
